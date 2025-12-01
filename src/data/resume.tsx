@@ -19,6 +19,7 @@ export const DATA = {
     "Typescript",
     "Python",
     "Postgres",
+    "MongoDB",
     "C++"
   ],
   navbar: [
