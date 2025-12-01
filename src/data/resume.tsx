@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "engineer.",
   summary:
-    "Hi i am Kapilansh a Fullstack enineer, not sticked to any tech stack, i like to build that solve problem and add real value to humanity.",
+    "Hi, I'm Kapilansh a Full-stack engineer, not tied to a single stack , i like to build things that solve real problems.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -18,8 +18,7 @@ export const DATA = {
     "Typescript",
     "Python",
     "Postgres",
-    "C++",
-    "Shitposting on X"
+    "C++"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -133,9 +132,9 @@ export const DATA = {
   ],
   education: [
     {
-      school: "GH Raisoni College of Enineering, Nagpur",
+      school: "GH Raisoni College of Engineering, Nagpur",
       href: "https://buildspace.so",
-      degree: "Btech in Electronics Engineering",
+      degree: "B.Tech in Electronics Engineering",
       logoUrl: "/buildspace.jpg",
       start: "2022",
       end: "2026",
@@ -154,6 +153,7 @@ export const DATA = {
         "PostgreSQL",
         "Prisma",
         "TailwindCSS",
+        "Auth: Google OAuth"
       ],
       links: [
         {
