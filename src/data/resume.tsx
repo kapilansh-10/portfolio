@@ -231,7 +231,7 @@ export const DATA = {
       },
       {
       title: "OddsForge",
-      // href: "/",
+      href: "https://github.com/kapilansh-10/OddsForge",
       active: true,
       description:
         "OddsForge is a Polymarket-style prediction market web app where users can create markets, place trades with USDC-style balances, and track positions in real time—built with a focus on clean APIs, accurate money math (micro-units), and scalable backend architecture.",
