@@ -218,7 +218,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chirper.vercel.app/",
+          href: "https://chirper-kappa-six.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
