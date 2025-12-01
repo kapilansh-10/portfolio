@@ -5,7 +5,8 @@ export const DATA = {
   name: "kapilansh",
   initials: "DV",
   url: "https://dillion.io",
-  location: "Nagpur",  
+  location: "Nagpur",
+  birthDate: "2004-08-12",
   // locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "engineer.",
@@ -161,6 +162,11 @@ export const DATA = {
           href: "https://anonify-alpha.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "Source Code",
+          href: "https://github.com/kapilansh-10/Anonify",
+          icon: <Icons.globe className="size-3" />,
+        }
       ],
       image: "/anonify.png",
       // video:
@@ -185,8 +191,38 @@ export const DATA = {
           href: "https://mind-dock.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "Source Code",
+          href: "https://github.com/kapilansh-10/MindDock",
+          icon: <Icons.globe className="size-3" />,
+        }
       ],
       image: "/minddock.png",
+      // video:
+      //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      },
+      {
+      title: "OddsForge",
+      href: "https://mind-dock.vercel.app/",
+      active: true,
+      description:
+        "OddsForge is a Polymarket-style prediction market web app where users can create markets, place trades with USDC-style balances, and track positions in real time—built with a focus on clean APIs, accurate money math (micro-units), and scalable backend architecture.",
+      technologies: [
+        "Next.js",
+        "TypeScript",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+        "Docker",
+      ],
+      links: [
+        {
+          type: "Source Code",
+          href: "https://github.com/kapilansh-10/OddsForge",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/progress.jpg",
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
       }
