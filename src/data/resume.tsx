@@ -202,6 +202,33 @@ export const DATA = {
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
       },
+    {
+      title: "Chirper",
+      href: "https://chirper.vercel.app/",
+      active: true,
+      description:
+      "Chirper is a Twitter-like social app where users can post short updates, explore a feed, and engage with posts through likes—built to showcase a clean, modern full-stack architecture.",
+      technologies: [
+      "React.js",
+      "TailwindCSS",
+      "JWT",
+      "MongoDB",
+      "Cloudinary"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://chirper.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source Code",
+          href: "https://github.com/kapilansh-10/Chirper",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+        image: "/chirper.png",
+      },
       {
       title: "OddsForge",
       href: "https://mind-dock.vercel.app/",
