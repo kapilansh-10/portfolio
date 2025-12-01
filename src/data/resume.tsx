@@ -204,7 +204,7 @@ export const DATA = {
       },
     {
       title: "Chirper",
-      href: "https://chirper.vercel.app/",
+      href: "https://chirper-kappa-six.vercel.app/",
       active: true,
       description:
       "Chirper is a Twitter-like social app where users can post short updates, explore a feed, and engage with posts through likes—built to showcase a clean, modern full-stack architecture.",
