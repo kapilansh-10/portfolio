@@ -166,6 +166,30 @@ export const DATA = {
       // video:
       //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
     },
+    {
+      title: "MindDock",
+      href: "https://mind-dock.vercel.app/",
+      active: true,
+      description:
+        "MindDock is a “second brain” web app that helps you capture notes, links, and ideas, organize them with tags/collections, and find anything instantly using powerful search—so your knowledge stays structured and easy to revisit",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://mind-dock.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/minddock.png",
+      // video:
+      //   "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      }
     // {
     //   title: "Automatic Chat",
     //   href: "https://automatic.chat",
