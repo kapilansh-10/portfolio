@@ -17,8 +17,10 @@ export const DATA = {
     "React",
     "Next.js",
     "Typescript",
+    "Node.js",
     "Python",
-    "Postgres",
+    "PostgreSQL",
+    "Docker",
     "MongoDB",
     "C++"
   ],
